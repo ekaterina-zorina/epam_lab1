@@ -1,0 +1,16 @@
+by.epam.tour_agency
+by.epam.tour_agency.bean
+by.epam.tour_agency.bean.comparators
+by.epam.tour_agency.controller
+by.epam.tour_agency.controller.command
+by.epam.tour_agency.controller.impl
+by.epam.tour_agency.dao
+by.epam.tour_agency.dao.exception
+by.epam.tour_agency.dao.factory
+by.epam.tour_agency.dao.impl
+by.epam.tour_agency.dao.util
+by.epam.tour_agency.service
+by.epam.tour_agency.service.exception
+by.epam.tour_agency.service.factory
+by.epam.tour_agency.service.impl
+by.epam.tour_agency.service.util

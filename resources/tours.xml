@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="12.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.epam.tour_agency.bean.Tour">
+    <void property="arrivalTime">
+     <string>03-12-2019 15:10</string>
+    </void>
+    <void property="city">
+     <object class="by.epam.tour_agency.bean.City">
+      <void property="country">
+       <object class="by.epam.tour_agency.bean.Country">
+        <void property="name">
+         <string>Netherlands</string>
+        </void>
+       </object>
+      </void>
+      <void property="name">
+       <string>Amsterdam</string>
+      </void>
+     </object>
+    </void>
+    <void property="departureTime">
+     <string>21-11-2019 23:10</string>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="price">
+     <int>520</int>
+    </void>
+    <void property="vehicle">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>by.epam.tour_agency.bean.Vehicle</class>
+      <string>PLANE</string>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
